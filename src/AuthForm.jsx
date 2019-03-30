@@ -4,7 +4,7 @@ import Button from "./Button";
 import Greeting from "./Greeting";
 import Input from "./Input";
 
-import LanguageContext from "./LanguageContext";
+import LanguageContext from './LanguageContext';
 
 import styles from "./AuthForm.module.css";
 
